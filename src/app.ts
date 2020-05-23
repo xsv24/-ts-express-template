@@ -3,6 +3,7 @@ import cors from 'cors';
 
 import config from './config';
 
+const PORT = config.PORT || 3001;
 const app = express();
 
 app.use(cors({ 
@@ -19,4 +20,4 @@ app.get('/', (req, res) => {
     })
 });
 
-app.listen(config.PORT, () => console.log(`Serving content on ${config.PORT}`));
+app.listen(PORT, () => console.log(`Serving content on ${PORT}`));
