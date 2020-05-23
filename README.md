@@ -1,6 +1,6 @@
 <p align="center">
-  <img width="250" height="250" src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/000/256/full/nodejslogo.png" alt="nodejs" />
-    <img width="250" height="250" src="https://i0.wp.com/storage.googleapis.com/blog-images-backup/1*0ei2MOQxAzF7krm-v60wnQ.jpeg?ssl=1" alt="typescript" />
+  <img width="180" height="160" src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/000/256/full/nodejslogo.png" alt="nodejs" />
+    <img width="150" height="150" src="https://i0.wp.com/storage.googleapis.com/blog-images-backup/1*0ei2MOQxAzF7krm-v60wnQ.jpeg?ssl=1" alt="typescript" />
 </p>
 
 <h1 align="center">Bare Bones ☠️ Template </h1>
