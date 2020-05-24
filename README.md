@@ -10,20 +10,6 @@ Get Started!
 ```bash
 git clone https://github.com/xsv24/ts-express-template.git 
 cd ts-express-template
-```
 
-
-Set Your Repo
-```bash
-git remote rm origin
-
-git remote add origin YOUR_REPO
-git push -u origin master
-```
-
-Run it
-
-```bash
-yarn install
-yarn dev
+sudo bash setup.sh
 ```
