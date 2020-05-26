@@ -1,0 +1,10 @@
+module.exports = {
+    testEnvironment: "node",
+    roots: ['<rootDir>/src'],
+    transform: {
+      '^.+\\.tsx?$': 'ts-jest',
+    },
+    coveragePathIgnorePatterns: [ "/node_modules/" ],
+    testRegex: '(/__tests__/.*|(\\.|/)(test|spec))\\.tsx?$',
+    moduleFileExtensions: ['ts', 'tsx', 'js', 'jsx', 'json', 'node'],
+}

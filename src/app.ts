@@ -21,3 +21,5 @@ app.get('/', (req, res) => {
 });
 
 app.listen(PORT, () => console.log(`Serving content on ${PORT}`));
+
+export default app;
